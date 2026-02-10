@@ -106,7 +106,7 @@
 
 ---
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2NHNwOXpmYXZndWU2bXF2b3RpdjZqaGZjNWc5amI1ZTZ6OTRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100%" alt="Cool GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2NHNwOXpmYXZndWU2bXF2b3RpdjZqaGZjNWc5amI1ZTZ6OTRlcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100" alt="Cool GIF" />
 </p>
 
 ⭐ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
