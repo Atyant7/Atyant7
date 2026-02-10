@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&height=60&lines=Hi+There+%F0%9F%91%8B!;Aspiring+Data+Scientist+%F0%9F%9A%80;DSA+%7C+Machine+Learning+%7C+AI;Always+Learning+%26+Building!" />
 </p>
 
-<h3 align="center">BTech Student | Aspiring Software Developer | DSA + Web + ML</h3>
-
 ---
 
 ## 👨‍💻 About Me
@@ -22,6 +20,10 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
 ### 💻 Languages
 - C++
 - Python
@@ -32,18 +34,31 @@
 - CSS
 - JavaScript
 
+    </td>
+
+    <td valign="top" width="33%">
+
 ### 🤖 Machine Learning / AI
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn (Learning)
-- PyTorch (Learning)
-- R (Learning)
+- Scikit-learn *(Learning)*
+- PyTorch *(Learning)*
+- R *(Learning)*
+
+    </td>
+
+    <td valign="top" width="33%">
 
 ### 🧰 Tools
 - Git & GitHub
 - VS Code
 - Linux Basics
+
+    </td>
+  </tr>
+</table>
+
 
 ---
 
