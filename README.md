@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0C2C55,100:296374&height=200&section=header&text=Hi%20There%F0%9F%91%8B!&fontSize=55&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0C2C55,100:629FAD&height=200&section=header&text=Hi%20There%F0%9F%91%8B!&fontSize=55&fontColor=ffffff)
 
 <h1 align="center">I'm Atyant Srivastava 🚀</h1>
 <h3 align="center">BTech Student | Aspiring Software Developer | DSA + AI + ML</h3>
@@ -81,9 +81,9 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/atyant-srivastava/)
-- 📧 Email: your-email@gmail.com
-- 🧑‍💻 LeetCode: [Your LeetCode](https://leetcode.com/u/3KOYb5wEQA/)
+- 💼 LinkedIn: [Atyant Srivastava](https://www.linkedin.com/in/atyant-srivastava/)
+- 📧 Email: atyantsrivastava7@gmail.com
+- 🧑‍💻 LeetCode: [Atyant Srivastava](https://leetcode.com/u/3KOYb5wEQA/)
 
 ---
 
