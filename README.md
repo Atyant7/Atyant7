@@ -1,18 +1,91 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi%20There%F0%9F%91%8B!&fontSize=55&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0C2C55,100:296374&height=200&section=header&text=Hi%20There%F0%9F%91%8B!&fontSize=55&fontColor=ffffff)
 
-## Hi there 👋
+<h1 align="center">I'm Atyant Srivastava 🚀</h1>
+<h3 align="center">BTech Student | Aspiring Software Developer | DSA + AI + ML</h3>
 
-<!--
-**Atyant7/Atyant7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BTech Undergraduate passionate about Technology & Coding  
+- 💻 Solving DSA problems on LeetCode regularly  
+- 🌱 Currently learning **Machine Learning, Data Science, AI and Deep Learning**  
+- 🚀 Interested in building real-world projects and contributing to Open Source  
+- 🔥 Goal: Crack a good **internship** and become industry-ready  
+- ☕ Debugging best with chai 😄  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- C++
+- Python
+- SQL
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+
+### 🤖 Machine Learning / AI
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn (Learning)
+- PyTorch (Learning)
+- R (Learning)
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- Linux Basics
+
+---
+
+## 📌 Current Focus
+
+- 📌 Data Structures & Algorithms (DSA)
+- 📌 LeetCode Problem Solving
+- 📌 Machine Learning Projects
+
+---
+
+## 🏆 Achievements
+
+- ✅ Completed 100+ LeetCode Problems  
+- 🚀 Working on improving problem-solving & project building skills  
+- 📚 Regularly learning and exploring new technologies  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atyant7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atyant7&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atyant7&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/atyant-srivastava/)
+- 📧 Email: your-email@gmail.com
+- 🧑‍💻 LeetCode: [Your LeetCode](https://leetcode.com/u/3KOYb5wEQA/)
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories and projects.*
+⭐ *Open for collaboration.*
