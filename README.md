@@ -42,6 +42,9 @@
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
 - Scikit-learn *(Learning)*
 - PyTorch *(Learning)*
 - R *(Learning)*
